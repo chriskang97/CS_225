@@ -1,5 +1,5 @@
 # CS 225: Data Structures Assignment Repository
+Course Webpage: https://courses.engr.illinois.edu/cs225/
 
-This repository contains your code for CS 225!  Each assignment, you will merge in a set of starter files from the assignment into your `master` branch.  After working on your assignment, you must **commit and push** your work before the deadline for your work to be graded.
+This course specifically focused on data structures and algorithms. Assignments were done in C++ and covered over different data structure applications such as the stack/queue, trees, graphs, etc. Lab assignments tend to go over the actual core implementation of these data structures while MP focused on applications with data structures and algorithms. 
 
-You can find additional information, including assignment descriptions, by visiting the course webpage: https://courses.engr.illinois.edu/cs225/
